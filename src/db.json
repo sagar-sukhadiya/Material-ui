@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "Sagar@gmail.com",
+      "phone": "9531236589",
+      "add": "sadd hddy jdyu jdhdy"
+    },
+    {
+      "email": "sagar@gmail.com",
+      "phone": "7898745637",
+      "address": "rdgrdhegrrg",
+      "id": 2
+    },
+    {
+      "email": "Ut@Gmail.com",
+      "phone": "9874563215",
+      "address": "rdgrdhegrrg",
+      "id": 3
+    }
+  ]
+}
